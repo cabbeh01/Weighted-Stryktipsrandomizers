@@ -50,7 +50,7 @@ def random13():
         CROSS = cross/100
         TWO = two/100
 
-        # Makes the line number order line up with each other
+        # Makes the linenumber order line up with each other
         NR = int(rad + 1)
         if NR < 10:
             NR = "%d " % NR
