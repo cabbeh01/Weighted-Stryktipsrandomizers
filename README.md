@@ -16,3 +16,10 @@ The row should look something like this:
   12 -  1| |
   13 -  1| |
 ```
+# How to use
+To get started run the python file and you will directly recive a generated row.
+
+# What I learned
+While doing this tiny-project I learned to 
+- scrap data from a website using a python library called BeautifulSoup
+- get to know numpy
