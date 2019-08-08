@@ -17,7 +17,8 @@ The row should look something like this:
   13 -  1| |
 ```
 # How to use
-To get started run the python file and you will directly recive a generated row.
+To get started.
+Run the stryktips.py file in python2.7 and you will directly recive a generated row.
 
 # What I learned
 While doing this tiny-project I learned to 
